@@ -117,6 +117,7 @@ Questions can be asked by raising an `Issue`.
 - [Dušan Tanasić](https://github.com/Duk4/)
 - [Eddie Jaoude](https://github.com/eddiejaoude)
 - [essarrgee](https://github.com/essarrgee)
+- [Farhan Dazzler](https://github.com/FarhanDazzler)
 - [Fatma](https://github.com/fatmab28)
 - [Gagan Gaur](https://github.com/gagangaur)
 - [Hamza Jassar](https://github.com/iJassar)
